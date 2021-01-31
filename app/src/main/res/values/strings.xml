@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="bottom_menu_games">Games</string>
+    <string name="bottom_menu_api">Web</string>
+    <string name="chanel_quantity">Количество каналов:</string>
+    <string name="viewers">Количество зрителей:</string>
+    <string name="game_name">game name</string>
+</resources>
